@@ -19,5 +19,8 @@
 		"prettier-plugin-svelte": "^2.7.0",
 		"svelte": "^3.44.0"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"netlify": "^11.0.2"
+	}
 }
