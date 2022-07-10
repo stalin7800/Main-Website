@@ -1,4 +1,4 @@
-<script>
+<script >
     const resume = {
         contact: {
             email: "dsardak@wpi.edu",
